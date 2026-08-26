@@ -5,4 +5,12 @@
 "sizeY": -0.1,
 "sizeZ": -3
 }
+{
+"092c9cb8-7290-4d1c-9360-a16d45097223": {
+"name": "{\"text\":\"\",\"extra\":[{\"text\":\"e\",\"color\":\"#FFD700\",\"bold\":true},{\"text\":\"p\",\"color\":\"#FFD700\",\"bold\":true},{\"text\":\"p\",\"color\":\"#FFD700\",\"bold\":true},{\"text\":\"o\",\"color\":\"#FFD700\",\"bold\":true},{\"text\":\"p\",\"color\":\"#1E90FF\",\"bold\":true},{\"text\":\"k\",\"color\":\"#1E90FF\",\"bold\":true},{\"text\":\"a\",\"color\":\"#1E90FF\",\"bold\":true},{\"text\":\"!\",\"color\":\"#1E90FF\",\"bold\":true}]}",
+"sizeX": 1,
+"sizeY": 0.5,
+"sizeZ": 1
+  }
+}
 }
